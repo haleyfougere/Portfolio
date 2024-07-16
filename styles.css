@@ -22,11 +22,14 @@ p {
 
 h1 {
     text-align: center;
+    margin-bottom: 30px;
+    color: darkslategray;
 }
 
 h3 {
     text-align: center;
     margin-top: 20px;
+    color: darkslategray;
 }
 
 .img-circle {
@@ -85,7 +88,7 @@ section {
 }
 
 .card {
-    height: 850px;
+    height: 660px;
     width: 400px;
     background-color: lightgrey;
     border-radius: 2%;
