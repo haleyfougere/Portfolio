@@ -171,3 +171,8 @@ section {
     margin: 20px;
     align-items: center;
 }
+
+#happy {
+    font-weight: bold;
+    transition: color 0.5s; /* Smooth transition for color changes */
+}
